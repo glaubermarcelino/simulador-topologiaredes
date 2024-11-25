@@ -1,6 +1,8 @@
-# simulador-topologia redes
+# Simulador Topologia Redes
 
-![Topologia Estrela](https://github.com/glaubermarcelino/simulador-topologiaredes/blob/main/print-test-ping.png)
+![Topologia Estrela](https://github.com/glaubermarcelino/simulador-topologiaredes/blob/main/Topologia-Estrela.png)
+
+![Test Ping](https://github.com/glaubermarcelino/simulador-topologiaredes/blob/main/print-test-ping.png)
 
 ## Foi utilizado o Simulador Cisco Packet Tracer
 
